@@ -1,0 +1,26 @@
+.card-container
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 1%;
+}
+
+.card-box
+{
+    margin-top: 1rem;
+    width: 24%;
+    text-align: center;
+    border-radius: 8px;
+    background-color: rgb(220, 251, 251);
+}
+.card-box:hover
+{
+    background-color: rgb(8, 243, 243);
+    color: #fdfafa;
+}
+
+.card-icon
+{
+    font-size: 7rem;
+}

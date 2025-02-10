@@ -1,0 +1,11 @@
+.btn-watching
+{
+    background-color: #251e1e;
+    color: #fff;
+    
+}
+
+.btn-watching:hover{
+    background-color: #111;
+    color: #fff;
+}

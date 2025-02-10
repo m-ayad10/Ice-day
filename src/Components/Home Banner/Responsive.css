@@ -1,0 +1,47 @@
+@media (max-width: 419px) {
+  .banner-content-box {
+    width: 80%;
+    top: 15%;
+    left: 10%;
+  }
+  .banner-text {
+    display: none;
+  }
+}
+@media (min-width: 420px) and (max-width: 599px) {
+  .banner-content-box {
+    width: 85%;
+    top: 15%;
+    left: 10%;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 767px) {
+  .banner-content-box {
+    width: 60%;
+    top: 15%;
+    left: 10%;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .banner-content-box {
+    width: 60%;
+    top: 15%;
+    left: 10%;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1199px) {
+  .banner-content-box {
+    width: 55%;
+    top: 15%;
+    left: 10%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .banner-content-box {
+    width: 50%;
+    top: 20%;
+    left: 10%;
+  }
+}

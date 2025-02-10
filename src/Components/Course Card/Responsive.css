@@ -1,0 +1,140 @@
+@media (max-width: 400px) {
+    .courseCard-border {
+        padding: 1rem 2rem 0.7rem 2rem;
+      }
+    
+      .courseCard-container {
+        gap: 0%;
+      }
+    
+      .courseCard-box {
+        margin-bottom: 1rem;
+        max-width: 100%;
+        padding: 1rem;
+      }
+    
+      .courseCard-img {
+        width: 100%;
+        height: 9rem;
+      }
+}
+@media (min-width: 400px) and (max-width: 480px) {
+    .courseCard-border {
+        padding: 1rem 2rem 1rem 2rem;
+      }
+    
+      .courseCard-container {
+        gap: 0%;
+      }
+    
+      .courseCard-box {
+        margin-bottom: 1rem;
+        max-width: 100%;
+        padding: 1rem;
+      }
+    
+      .courseCard-img {
+        width: 100%;
+        height: 9rem;
+      }
+}
+@media (min-width: 480px) and (max-width: 600px) {
+  .courseCard-border {
+    padding: 1rem 2rem 1rem 2rem;
+  }
+
+  .courseCard-container {
+    gap: 1%;
+  }
+
+  .courseCard-box {
+    margin-bottom: 1rem;
+    max-width:49%;
+    padding: 0.2rem;
+  }
+
+  .courseCard-img {
+    width: 100%;
+    height: 9rem;
+  }
+}
+@media (min-width: 600px) and (max-width: 800px) {
+  .courseCard-border {
+    padding: 1rem 2rem 1rem 2rem;
+  }
+
+  .courseCard-container {
+    gap: 4%;
+  }
+
+  .courseCard-box {
+    margin-bottom: 1rem;
+    max-width: 48%;
+    padding: 0.2rem;
+  }
+
+  .courseCard-img {
+    width: 100%;
+    height: 10rem;
+  }
+}
+@media (min-width: 800px) and (max-width: 1024px) {
+  .courseCard-border {
+    padding: 1rem 2rem 1rem 2rem;
+  }
+
+  .courseCard-container {
+    gap: 0%;
+  }
+
+  .courseCard-box {
+    margin-bottom: 1rem;
+    max-width: 25%;
+    padding: 0.2rem;
+  }
+
+  .courseCard-img {
+    width: 100%;
+    height: 10rem;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1200px) {
+  .courseCard-border {
+    padding: 1rem 2rem 1rem 2rem;
+  }
+
+  .courseCard-container {
+    gap: 0%;
+  }
+
+  .courseCard-box {
+    margin-bottom: 1rem;
+    max-width: 25%;
+    padding: 0.5rem;
+  }
+
+  .courseCard-img {
+    width: 100%;
+    height: 11rem;
+  }
+}
+@media (min-width: 1200px) {
+  .courseCard-border {
+    padding: 1rem 2rem 1rem 2rem;
+  }
+
+  .courseCard-container {
+    gap: 1%;
+  }
+
+  .courseCard-box {
+    margin-bottom: 1rem;
+    max-width: 24%;
+    padding: 0.5rem;
+  }
+
+  .courseCard-img {
+    width: 100%;
+    height: 11rem;
+  }
+}

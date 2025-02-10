@@ -1,0 +1,14 @@
+.filter-button
+{
+  font-size: 1.1rem;
+  background-color: #e4e4e4;
+  margin-left: 1rem;
+}
+.light-text
+{
+    color: #544b4b;
+}
+.search-course
+{
+    outline: none;
+}
